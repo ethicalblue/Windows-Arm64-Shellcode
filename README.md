@@ -1,7 +1,7 @@
-# Windows ARM64 Shellcode/Payload
-Educational materials about creating shellcode/payload for Windows ARM64
+# Windows Arm64 Shellcode/Payload
+Educational materials about creating shellcode/payload for Windows Arm64
 
 - [WindowsShellcode.cpp](WindowsShellcode.cpp) (Visual C++)
-- [WindowsARM64Shellcode.asm](WindowsARM64Shellcode.asm) (Microsoft ARM Assembler)
+- [WindowsArm64Shellcode.asm](WindowsArm64Shellcode.asm) (Microsoft Arm Assembler)
 
-![Windows ARM64 Shellcode Executed](/img/executed.png)
+![Windows Arm64 Shellcode Executed](/img/executed.png)
